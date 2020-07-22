@@ -1,0 +1,13 @@
+{
+    "name": "wordpress/theweb",
+    "type": "project",
+    "description": "",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TheWeb\\": "./includes"
+        }
+    }
+}
